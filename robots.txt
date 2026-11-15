@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arenda-dom-molokovo.github.io/sitemap.xml
